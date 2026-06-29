@@ -1,0 +1,5 @@
+<div id="bonzi">
+    <div class="bubble" id="speech-bubble">Hello World!</div>
+    <!-- This div holds your custom sheet -->
+    <div class="bonzi-custom-sprite"></div>
+</div>
